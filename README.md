@@ -1,2 +1,8 @@
 # tec-Fortran2Forth
-convert useful fortran code to forth for the tec-1
+- convert useful fortran code to forth /mint 
+
+
+
+# iterate
+- write gforth functions for mint
+- 
